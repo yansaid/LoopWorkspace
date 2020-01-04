@@ -6,6 +6,8 @@
 // Customize this to change the app name displayed
 MAIN_APP_DISPLAY_NAME = Loop
 
+FEATURE_SPECIFIER = Automatic Bolusing
+
 // Features
 // SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) FEATURE_OVERRIDES_DISABLED
 
