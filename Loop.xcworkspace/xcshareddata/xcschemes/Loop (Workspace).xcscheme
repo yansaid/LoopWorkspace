@@ -210,6 +210,34 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A9FC98DB2333EFE10010CBD2"
+               BuildableName = "AmplitudeServiceKitPlugin.loopplugin"
+               BlueprintName = "AmplitudeServiceKitPlugin"
+               ReferencedContainer = "container:AmplitudeService/AmplitudeService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A99C711A233965F000AB9035"
+               BuildableName = "LogglyServiceKitPlugin.loopplugin"
+               BlueprintName = "LogglyServiceKitPlugin"
+               ReferencedContainer = "container:LogglyService/LogglyService.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "C136AA2923116E32008A320D"
                BuildableName = "OmniKitPlugin.loopplugin"
                BlueprintName = "OmniKitPlugin"
@@ -270,6 +298,20 @@
                BuildableName = "CGMBLEKitG6Plugin.loopplugin"
                BlueprintName = "CGMBLEKitG6Plugin"
                ReferencedContainer = "container:CGMBLEKit/CGMBLEKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "28482DC11D314E7B003491D9"
+               BuildableName = "TrueTime.framework"
+               BlueprintName = "TrueTime-iOS"
+               ReferencedContainer = "container:TrueTime.swift/TrueTime.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry

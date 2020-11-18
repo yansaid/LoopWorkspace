@@ -31,3 +31,12 @@
 [submodule "Minizip"]
 	path = Minizip
 	url = https://github.com/dexman/Minizip.git
+[submodule "TrueTime.swift"]
+	path = TrueTime.swift
+	url = git@github.com:instacart/TrueTime.swift.git
+[submodule "LogglyService"]
+	path = LogglyService
+	url = https://github.com/LoopKit/LogglyService.git
+[submodule "AmplitudeService"]
+	path = AmplitudeService
+	url = https://github.com/LoopKit/AmplitudeService.git

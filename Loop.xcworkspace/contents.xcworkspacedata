@@ -5,10 +5,16 @@
       location = "group:LoopConfigOverride.xcconfig">
    </FileRef>
    <FileRef
+      location = "group:AmplitudeService/AmplitudeService.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AdditionalAssets.xcassets">
    </FileRef>
    <FileRef
       location = "group:AdditionalWatchAssets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:LogglyService/LogglyService.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Loop/Loop.xcodeproj">
@@ -42,5 +48,8 @@
    </FileRef>
    <FileRef
       location = "group:Minizip/Minizip.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TrueTime.swift/TrueTime.xcodeproj">
    </FileRef>
 </Workspace>
