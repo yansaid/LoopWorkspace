@@ -34,3 +34,6 @@
 [submodule "TrueTime.swift"]
 	path = TrueTime.swift
 	url = https://github.com/instacart/TrueTime.swift.git
+[submodule "bubble-client-swift"]
+	path = bubble-client-swift
+	url = https://github.com/bubbledevteam/bubble-client-swift.git
