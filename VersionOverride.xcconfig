@@ -4,12 +4,18 @@
 // MAIN_APP_BUNDLE_IDENTIFIER = com.myname.loop
 
 // Customize this to change the app name displayed
-MAIN_APP_DISPLAY_NAME = Loop
+MAIN_APP_DISPLAY_NAME = FreeAPS
+
+MAIN_APP_PRODUCT_NAME = FreeAPS
+
+LOOP_MARKETING_VERSION = 2.1
+CURRENT_PROJECT_VERSION = 181
+MAIN_APP_BUNDLE_IDENTIFIER = com.9XUNMSKCTD.loopkit
 
 // Features
 // SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) FEATURE_OVERRIDES_DISABLED
 
 // Assets
-INCLUDED_SOURCE_FILE_NAMES = AdditionalAssets.xcassets
+//INCLUDED_SOURCE_FILE_NAMES = AdditionalAssets.xcassets
 
-APPICON_NAME = CustomLoopIcon
+//APPICON_NAME = CustomLoopIcon

@@ -294,6 +294,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2CD7A64725808D6E0029E4BB"
+               BuildableName = "NightscoutAPIClientPlugin.loopplugin"
+               BlueprintName = "NightscoutAPIClientPlugin"
+               ReferencedContainer = "container:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "28482DC11D314E7B003491D9"
                BuildableName = "TrueTime.framework"
                BlueprintName = "TrueTime-iOS"

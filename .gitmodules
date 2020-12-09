@@ -37,3 +37,7 @@
 [submodule "bubble-client-swift"]
 	path = bubble-client-swift
 	url = https://github.com/bubbledevteam/bubble-client-swift.git
+[submodule "NightscoutAPIClient"]
+	path = NightscoutAPIClient
+	branch = newloop
+	url = https://github.com/yansaid/NightscoutAPIClient.git

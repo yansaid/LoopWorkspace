@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/pete/dev/LoopWorkspace/LoopConfigOverride.xcconfig">
+      location = "group:/Users/yan/Desktop/Test/mc/LoopWorkspace/VersionOverride.xcconfig">
    </FileRef>
    <FileRef
       location = "group:AdditionalAssets.xcassets">
@@ -48,5 +48,8 @@
    </FileRef>
    <FileRef
       location = "group:bubble-client-swift/BubbleClient.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NightscoutAPIClient/NightscoutAPIClient.xcodeproj">
    </FileRef>
 </Workspace>
