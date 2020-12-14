@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/yan/Desktop/Test/mc/LoopWorkspace/VersionOverride.xcconfig">
+      location = "group:VersionOverride.xcconfig">
    </FileRef>
    <FileRef
       location = "group:AdditionalAssets.xcassets">
