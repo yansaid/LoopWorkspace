@@ -1,11 +1,14 @@
 [submodule "Loop"]
 	path = Loop
+	branch = dev
 	url = https://github.com/LoopKit/Loop.git
 [submodule "LoopKit"]
 	path = LoopKit
+	branch = dev
 	url = https://github.com/LoopKit/LoopKit.git
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
+	branch = dev
 	url = https://github.com/LoopKit/CGMBLEKit.git
 [submodule "SwiftCharts"]
 	path = SwiftCharts
@@ -15,18 +18,23 @@
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
+	branch = dev
 	url = https://github.com/LoopKit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
+	branch = dev
 	url = https://github.com/ps2/rileylink_ios.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
+	branch = decreepify
 	url = https://github.com/LoopKit/Amplitude-iOS.git
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
+	branch = appex-safe
 	url = https://github.com/LoopKit/MKRingProgressView.git
 [submodule "NightscoutService"]
 	path = NightscoutService
+	branch = dev
 	url = https://github.com/ps2/NightscoutService.git
 [submodule "Minizip"]
 	path = Minizip

@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:VersionOverride.xcconfig">
+      location = "group:/Users/huyan/Desktop/LoopWorkspace/VersionOverride.xcconfig">
    </FileRef>
    <FileRef
       location = "group:AdditionalAssets.xcassets">
@@ -33,9 +33,6 @@
    </FileRef>
    <FileRef
       location = "group:Amplitude-iOS/Amplitude.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:NightscoutService/NightscoutService.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:MKRingProgressView/MKRingProgressView.xcodeproj">
