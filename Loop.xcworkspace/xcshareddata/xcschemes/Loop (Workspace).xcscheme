@@ -196,20 +196,6 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A99C713023396CB100AB9035"
-               BuildableName = "NightscoutServiceKitPlugin.loopplugin"
-               BlueprintName = "NightscoutServiceKitPlugin"
-               ReferencedContainer = "container:NightscoutService/NightscoutService.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
                BlueprintIdentifier = "C136AA2923116E32008A320D"
                BuildableName = "OmniKitPlugin.loopplugin"
                BlueprintName = "OmniKitPlugin"
@@ -224,10 +210,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2C688768257F5FA9005E197A"
-               BuildableName = "BubbleClientPlugin.loopplugin"
-               BlueprintName = "BubbleClientPlugin"
-               ReferencedContainer = "container:bubble-client-swift/BubbleClient.xcodeproj">
+               BlueprintIdentifier = "B40BF25D23ABD47400A43CEE"
+               BuildableName = "ShareClientPlugin.loopplugin"
+               BlueprintName = "ShareClientPlugin"
+               ReferencedContainer = "container:dexcom-share-client-swift/ShareClient.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -238,10 +224,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B40BF25D23ABD47400A43CEE"
-               BuildableName = "ShareClientPlugin.loopplugin"
-               BlueprintName = "ShareClientPlugin"
-               ReferencedContainer = "container:dexcom-share-client-swift/ShareClient.xcodeproj">
+               BlueprintIdentifier = "2C688768257F5FA9005E197A"
+               BuildableName = "BubbleClientPlugin.loopplugin"
+               BlueprintName = "BubbleClientPlugin"
+               ReferencedContainer = "container:bubble-client-swift/BubbleClient.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
