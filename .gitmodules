@@ -15,6 +15,7 @@
 	url = https://github.com/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
+	branch = dev
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
@@ -22,8 +23,8 @@
 	url = https://github.com/LoopKit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	branch = dev
-	url = https://github.com/ps2/rileylink_ios.git
+	branch = dev_orange_pre
+	url = https://github.com/yansaid/rileylink_ios.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	branch = decreepify
