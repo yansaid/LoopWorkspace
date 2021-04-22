@@ -24,7 +24,7 @@
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	branch = dev_orange_pre
-	url = https://github.com/yansaid/rileylink_ios.git
+	url = https://github.com/bubbledevteam/rileylink_ios.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	branch = decreepify

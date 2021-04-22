@@ -9,7 +9,7 @@ MAIN_APP_DISPLAY_NAME = FreeAPS
 MAIN_APP_PRODUCT_NAME = FreeAPS
 
 LOOP_MARKETING_VERSION = 2.2
-CURRENT_PROJECT_VERSION = 1.0.5
+CURRENT_PROJECT_VERSION = 1.1.1
 MAIN_APP_BUNDLE_IDENTIFIER = com.9XUNMSKCTD.loopkit
 
 // Features
@@ -19,3 +19,11 @@ MAIN_APP_BUNDLE_IDENTIFIER = com.9XUNMSKCTD.loopkit
 //INCLUDED_SOURCE_FILE_NAMES = AdditionalAssets.xcassets
 
 //APPICON_NAME = CustomLoopIcon
+
+
+// add test
+//case .replacePod:
+//    let device = devicesDataSource.devices[0]
+//    let vc1 = RileyLinkDeviceTableViewController(device: device)
+//    self.show(vc1, sender: sender)
+//    return
